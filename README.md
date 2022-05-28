@@ -51,8 +51,8 @@ Options:
 
 The following are completed, in-progress, and planned implementations:
 
-* [JavaScript](javascript/README.md) :white_check_mark:
-* [Rust](rust/README.md) :white_check_mark:
-* Go :soon:
+* [JavaScript](https://github.com/riversoforion/numeris-js) :white_check_mark:
+* [Rust](https://github.com/riversoforion/numeris-rs) :white_check_mark:
 * Python :soon:
-* Java :soon:
+* [Java](https://github.com/riversoforion/numeris-java) :arrow_forward:
+
